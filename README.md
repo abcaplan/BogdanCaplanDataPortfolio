@@ -2,7 +2,7 @@
 
 I'm a recent graduate of Just IT's Data Technician Skills Bootcamp and I am looking to secure a role within the data industry.
 
-*   👋  Hi My name is Bogdan Caplan
+*   👋  Hi, my name is Bogdan Caplan
 *   🌍  I'm based in Newcastle upon Tyne, UK
 *   🖥️  See my portfolio on [Google Sites](http://sites.google.com/view/bogdan-caplan-portfolio/reflection).
 *   🧠  I'm learning Python, SQL, Excel and Tableau
