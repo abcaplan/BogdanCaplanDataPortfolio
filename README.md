@@ -4,8 +4,13 @@ I'm a recent graduate of Just IT's Data Technician Skills Bootcamp and I am look
 
 *   👋  Hi, my name is Bogdan Caplan
 *   🌍  I'm based in Newcastle upon Tyne, UK
-*   🖥️  See my portfolio on [Google Sites](http://sites.google.com/view/bogdan-caplan-portfolio/reflection).
-*   🧠  I'm learning Python, SQL, Excel and Tableau
+*   ✉️  You can contact me on my [LinkedIn profile] (https://www.linkedin.com/in/abcaplan/)
+*   🖥️  See my portfolio on [Google Sites] (http://sites.google.com/view/bogdan-caplan-portfolio).
+*   🧠  I'm learning Data Analytics skills, including Python, SQL, Excel, Tableau, PowerBI and Microsoft Azure
+*    I am a highly motivated First-Class Computer Science graduate with a strong passion for Data Analytics and Artificial Intelligence. Equipped with excellent problem-solving and analytical skills, I specialise in identifying patterns and extracting meaningful insights to support informed decision-making. Detail-oriented and dedicated to accuracy, I work efficiently under pressure to meet deadlines while maintaining high-quality standards.
+*    I thrive in collaborative settings, quickly integrate into teams, and effectively communicate complex ideas. With a logical and structured approach to problem-solving, I adapt seamlessly to new challenges. I am now seeking a Data Analyst role to further develop my expertise and contribute to impactful data-driven solutions.
+*    Currently enrolled and coming to the end of an intensive 8-week Data Analytics program, where I gained hands-on experience with real-world scenarios and advanced tools such as Microsoft Excel, Tableau, Power BI, SQL, Azure, and Python to solve and analyse complex problems.
+
 
 ### Skills
 <p align="left">
