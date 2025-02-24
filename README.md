@@ -1,4 +1,4 @@
-# BogdanCaplanDataPortfolio
+# Bogdan Caplan's Portfolio
 
 I'm a recent graduate of Just IT's Data Technician Skills Bootcamp and I am looking to secure a role within the data industry.
 
